@@ -1,4 +1,4 @@
-.attribution { margin-top: 50px; font-size: 11px; text-align: center; }
+.attribution { color: #fff; margin-top: 50px; font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
 * {
@@ -25,9 +25,8 @@ body {
     flex-direction: column;
     border-radius: 15px;
     background-color: hsl(217, 19%, 24%);
-    width: 550px;
+    width: 500px;
     min-height: 350px;
-
 }
 span {
     margin-top: 25px;
@@ -46,6 +45,7 @@ p {
     text-align: center;
     margin-top: 50px;
 }
+
 
 #divider {
     margin-top: 50px;
